@@ -21,7 +21,7 @@
 
 ## 📲 Download
 
-🔹 **Google Play Store**: [Download Here](#)  
+🔹 **Google Play Store**: [[Download Here](#)](https://github.com/shahin0075/LIve-On-Cricket-APP/releases/tag/v1.0)  
 🔹 **iOS App Store**: *(Coming Soon!)*  
 
 ---
